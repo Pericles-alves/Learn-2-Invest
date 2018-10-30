@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Telamain</string>
+    <string-array name="escolha_usuario">
+        <item>CBD</item>
+        <item>Dêbentures</item>
+        <item>LC</item>
+        <item>LCA</item>
+        <item>LCI</item>
+        <item>Tesouro Direto</item>
+    </string-array>
 </resources>
